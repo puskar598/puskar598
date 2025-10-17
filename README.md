@@ -26,11 +26,11 @@ Next, I plan to learn:
 
 ## 📈 GitHub Stats & Activity
 
-![Pushkar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Pushkar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=puskar598&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=puskar598&layout=compact&theme=radical)
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=radical)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=puskar598&theme=radical)
 
 ---
 
@@ -38,15 +38,13 @@ Next, I plan to learn:
 
 I'm always open to feedback, suggestions, and learning with others!
 
-- 📧 Email: your-email@example.com
-- 🌐 Portfolio (coming soon!)
+- 📧 Email: puskar@example.com *(replace with your real email if you'd like)*
+- 🌐 Portfolio: Coming soon!
 
 ---
 
 ## ✨ Fun Fact
 
-I started coding because I love building things that people can interact with online! Every line of code is a small step towards becoming a Full Stack Developer 🚀
+I started coding because I love building things that people can interact with online! Every line of code is a small step toward becoming a Full Stack Developer 🚀
 
----
 
-⭐️ *Thanks for visiting my GitHub! Feel free to follow or check out my progress!*
