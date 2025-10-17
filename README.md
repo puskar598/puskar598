@@ -24,7 +24,15 @@ Next, I plan to learn:
 
 ---
 
+## 📈 GitHub Stats & Activity
 
+![Pushkar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=radical)
+
+---
 
 ## 📫 Connect with Me
 
@@ -41,4 +49,4 @@ I started coding because I love building things that people can interact with on
 
 ---
 
-Thanks for visiting my GitHub! 😊
+⭐️ *Thanks for visiting my GitHub! Feel free to follow or check out my progress!*
